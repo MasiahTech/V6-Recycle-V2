@@ -2,7 +2,7 @@ fx_version 'cerulean'
 game 'gta5'
 lua54 'yes'
 
-author 'Onecitgo DISCORD.GG/V64L'
+author 'Onecitgo'
 description 'Recycle System - Collect boxes and trade materials'
 version '2.0.0'
 
